@@ -1,0 +1,1 @@
+# interface_abstract_class_implementation
